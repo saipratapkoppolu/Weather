@@ -2,7 +2,7 @@
 //  WeatherModel.swift
 //  Weather
 //
-//  Created by Sai Pratap Koppolu on 13/09/22.
+//  Created by Sai Pratap Koppolu on 14/09/22.
 //
 
 import Foundation
